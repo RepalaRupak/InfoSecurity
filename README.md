@@ -1,1 +1,1 @@
-# InfoSecurity
+# InformationSecurity
